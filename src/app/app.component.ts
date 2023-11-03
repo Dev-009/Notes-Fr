@@ -6,5 +6,9 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
+<<<<<<< HEAD
+  title = 'notes-app';
+=======
   title = 'NotesApp';
+>>>>>>> 2fc1e5e (Test commit)
 }

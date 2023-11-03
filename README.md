@@ -1,6 +1,12 @@
+<<<<<<< HEAD
+# NotesApp-Frontend
+Angular side of notes app. 
+
+=======
+>>>>>>> 2fc1e5e (Test commit)
 # NotesApp
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.0.5.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.5.
 
 ## Development server
 
